@@ -1,0 +1,1 @@
+QA contract: verify script text, formulas, units, protected silence windows, captions, audio stream, video stream, exact duration, and complete decode before delivery.
