@@ -1,0 +1,1 @@
+The lesson data is derived from the user's reviewed Physical Science master screenplay and is used only for the requested course-video generation.
