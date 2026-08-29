@@ -1,0 +1,7 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "time_stretching": false,
+  "voice_conversion": false
+}
