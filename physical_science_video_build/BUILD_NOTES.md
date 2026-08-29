@@ -1,0 +1,1 @@
+Build constraints: 21 lessons, exactly 120 seconds each, six continuous beats, protected three- and four-second silent recall windows, direct Microsoft en-IN-NeerjaNeural narration at -8% rate and -2 Hz pitch, no speech time-stretching or voice conversion.
