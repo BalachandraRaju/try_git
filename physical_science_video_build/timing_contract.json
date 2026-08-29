@@ -1,0 +1,6 @@
+{
+  "lesson_count": 21,
+  "lesson_duration_seconds": 120,
+  "beats_per_lesson": 6,
+  "protected_holds_seconds": [3, 4]
+}
