@@ -1,0 +1,9 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "captions": "burned-in plus SRT"
+}
